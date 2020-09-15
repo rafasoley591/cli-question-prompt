@@ -1,6 +1,9 @@
 # What is this?
 This is a prompter for CLI`s. You provide a QUESTIONS array and it prompts it to the user.
 
+# Installation
+`npm i cli-question-propmt --save`
+
 # Example Usage
 ```
     const cli_prompt = require("cli-question-prompt");
